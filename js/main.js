@@ -33,7 +33,7 @@ function main(){
           eleImgResult.src = resultUrlImgs[randomNumber]
           eleImgResult2.src = resultUrlImgs[randomNumber2]
           eleImgResult3.src = resultUrlImgs[randomNumber3]
-        }, 2000)
+        }, 3000)
       })
     }
     
